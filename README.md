@@ -7,3 +7,4 @@ Sofia Lugani
 48.671.239
 luganisofia@gmail.com
 https://github.com/luganisofia
+organizacion de biblioteca virtual con datos de las personas que ingresen y saquen libros
