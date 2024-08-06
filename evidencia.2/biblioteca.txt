@@ -1,0 +1,7 @@
+bienvenido a la biblioteca
+nombre completo:sofia lugani
+numero de telefono:6789542308
+libro:culpa mia
+fecha de retiro:120924
+fecha de vuelta:130724
+gracias por venir a la biblioteca

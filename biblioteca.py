@@ -1,7 +1,0 @@
-print("bienvenido a la biblioteca")
-nombrecompleto= input('nombre completo:')
-numerodetelefono= input('numero de telefono:')
-libro= input('libro:')
-fechaderetiro= input('fecha de retiro:')
-fechadevuelta= input('fecha de vuelta:')
-print("gracias por venir a la biblioteca")
